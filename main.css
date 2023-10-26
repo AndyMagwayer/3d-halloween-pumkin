@@ -11,3 +11,21 @@ body {
     filter: contrast(3);
 
 }
+
+canvas { display: block; }
+
+#mainCanvas {
+    width: 100%;
+    height: 100%;
+  }
+  
+  #arrowCanvas  {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    width: 150px;
+    height: 150px;
+    z-index: 100;
+  }
+  
+  select { width: 170px; }
