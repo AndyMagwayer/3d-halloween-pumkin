@@ -2,6 +2,7 @@
 This project is a 3D modeling and animation project focused on creating a Halloween-themed pumpkin. The pumpkin is designed to be used in various applications such as games, animations, or virtual reality experiences. 
 
 ## Deploy: https://3d-halloween-pumkin-abdulaziz.netlify.app/
+
 ## Features
 - Detailed 3D model of a Halloween pumpkin
 - High-quality textures and materials
